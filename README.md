@@ -4,6 +4,6 @@ Features : 1.Fixed navigation bar with hover effects, 2.Hero section with backgr
 
 Technologies Used : HTML5 – Structure, CSS3 – Styling, responsiveness, hover effects, JavaScript – Slideshow functionality.
 
-Live Demo : 🔗 GitHub Pages Link: 
+Live Demo : 🔗 GitHub Pages Link: https://srushtiu.github.io/task01/
 
-Author : Sanjana karekar Email: sanjanakarekar5@gmail.com
+Author : Srushti Unadle Email: srushtiundale13@gmail.com
