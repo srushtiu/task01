@@ -6,4 +6,4 @@ Technologies Used : HTML5 – Structure, CSS3 – Styling, responsiveness, hover
 
 Live Demo : 🔗 GitHub Pages Link: https://srushtiu.github.io/task01/
 
-Author : Srushti Unadle Email: srushtiundale13@gmail.com
+Author : Srushti Unadle Email: srushtiundale@gmail.com
